@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RandomLinuxUser606
-- 👀 I’m interested in saving my dotfiles here
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested in saving my rice things here
+- 🌱 I’m currently learning Linux, HTML and CSS
 - 💞️ I’m looking to collaborate on Linux
 - 📫 How to reach me: ...
 - 😄 Pronouns:
